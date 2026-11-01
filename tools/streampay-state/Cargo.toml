@@ -26,6 +26,6 @@ clap = { version = "4", features = ["derive"] }
 base64 = "0.23"
 hex = "0.4"
 # SHA-256 for schema fingerprint
-sha2 = "0.10"
+sha2 = "0.11"
 # Error handling
 anyhow = "1"
